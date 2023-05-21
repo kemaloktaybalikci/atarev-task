@@ -1,0 +1,25 @@
+Django==4.1.1
+djangorestframework
+djongo==1.3.6
+pymongo==3.12.3
+django-rest-swagger
+pyyaml
+dnspython-2.3.0
+
+
+
+
+# mongo db user
+# mongodb-admin:OpPNsQxzPBPTTpAB
+# mongodb+srv://mongodb-admin:OpPNsQxzPBPTTpAB@cluster0.jowujdt.mongodb.net/
+
+
+# superuser account
+# admin:password
+
+#REFERENCES
+# https://docs.djangoproject.com/en/4.2/
+# https://www.django-rest-framework.org/
+# https://www.djongomapper.com/get-started/
+
+# https://sourcery.blog/how-to-build-api-with-django-rest-framework-and-mongodb/
